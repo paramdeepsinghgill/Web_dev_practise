@@ -1,0 +1,9 @@
+Extensions to make look VS code prettier:
+GitHub Themes
+Live preview
+
+
+Short:
+!
+link:css
+script:src
